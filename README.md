@@ -3,9 +3,9 @@
 <html>
 <head>
 
-<!-- your webpage info goes here -->
+<!-- a calculator website -->
 
-    <title>My First Website</title>
+    <title> my calculator </title>
 	
 	<meta name="author" content="your name" />
 	<meta name="description" content="" />
